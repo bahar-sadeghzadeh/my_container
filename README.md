@@ -2,6 +2,8 @@
 
 This is a customizable Flutter widget that creates a fancy container with gradient background and shadow effect.
 
+![screenshot](screenshot.png)
+
 ## Features
 
 - Allows customization of width, height, colors, title, subtitle, and padding.
