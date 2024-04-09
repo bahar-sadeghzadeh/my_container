@@ -1,10 +1,10 @@
 name: container_separate_package
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/bahar-sadeghzadeh/my_container
 
 environment:
-  sdk: '>=3.1.5 <4.0.0'
+  sdk: ">=3.1.5 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
